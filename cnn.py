@@ -3,7 +3,7 @@
 # FILENAME: cnn.py
 # SPECIFICATION: Train a CNN to classify 32x32 images of handwritten digits
 # FOR: CS 4210 - Assignment #4
-# TIME SPENT: 3 hours
+# TIME SPENT: 1 hours
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
